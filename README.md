@@ -1,6 +1,8 @@
 # aurora-poster-master
 Aurora Poster Master (极光海报大师 · AI智慧版) An LLM-workflow-powered poster generation skill: 16-item requirement intake, 12-block layout prompting, text-rendering effects, pixel-level repair pipeline.
-全网首发—— 极光海报大师 · AI智慧版
+全网首发—— 
+<img width="1504" height="2000" alt="未标题-1" src="https://github.com/user-attachments/assets/1451bc51-add5-41ea-86e8-e8e8b171d7a7" />
+极光海报大师 · AI智慧版
 作者：辰锋破浪
 标签：AI海报生成、海报设计Skill、Aurora Poster
 纯个人原创，耗时整整一周高强度调试打磨而成。它不是普通的生图工具，而是一位 24 小时待命的世界级广告设计总监：从行业定位、16 大项263个分类的需求收集，到设计简报AI总监终审，每一步都由它替你把关。
@@ -17,7 +19,7 @@ Aurora Poster Master (极光海报大师 · AI智慧版) An LLM-workflow-powered
 使用前提：首次使用需配置火山方舟 API Key（生图）与文本模型 Key（写文案），之后密钥只存在你本地，不外传。
 建议使用姿势：它问什么你答什么，拿不准就说「让 AI 推荐」；设计简报出来务必过一遍再确认出图；交付后想改，直接说改哪个字段，只重跑对应环节。
 纯个人原创，调试了一周，目前是我用过的海报类 Skill 里最稳的一档。
-<img width="1504" height="2000" alt="未标题-1" src="https://github.com/user-attachments/assets/1451bc51-add5-41ea-86e8-e8e8b171d7a7" />
+
 <img width="799" height="730" alt="01" src="https://github.com/user-attachments/assets/61bc94e4-6051-4fbd-9a94-8c7938072996" />
 <img width="802" height="753" alt="02" src="https://github.com/user-attachments/assets/0713fe02-d3de-48aa-a12b-83234b855045" />
 <img width="784" height="807" alt="03" src="https://github.com/user-attachments/assets/35ed511f-195e-435e-9508-58a686ea3800" />
