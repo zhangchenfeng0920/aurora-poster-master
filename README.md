@@ -1,8 +1,8 @@
 # aurora-poster-master
 Aurora Poster Master (极光海报大师 · AI智慧版) An LLM-workflow-powered poster generation skill: 16-item requirement intake, 12-block layout prompting, text-rendering effects, pixel-level repair pipeline.
-全网首发—— 
+
 <img width="1504" height="2000" alt="未标题-1" src="https://github.com/user-attachments/assets/1451bc51-add5-41ea-86e8-e8e8b171d7a7" />
-极光海报大师 · AI智慧版
+极光海报大师 · AI智慧版 —— 全网首发
 作者：辰锋破浪
 标签：AI海报生成、海报设计Skill、Aurora Poster
 纯个人原创，耗时整整一周高强度调试打磨而成。它不是普通的生图工具，而是一位 24 小时待命的世界级广告设计总监：从行业定位、16 大项263个分类的需求收集，到设计简报AI总监终审，每一步都由它替你把关。
