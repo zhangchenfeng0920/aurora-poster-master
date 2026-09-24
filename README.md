@@ -15,3 +15,11 @@ Aurora Poster Master (极光海报大师 · AI智慧版) An LLM-workflow-powered
 使用前提：首次使用需配置火山方舟 API Key（生图）与文本模型 Key（写文案），之后密钥只存在你本地，不外传。
 建议使用姿势：它问什么你答什么，拿不准就说「让 AI 推荐」；设计简报出来务必过一遍再确认出图；交付后想改，直接说改哪个字段，只重跑对应环节。
 纯个人原创，调试了一周，目前是我用过的海报类 Skill 里最稳的一档。
+<img width="1504" height="2000" alt="未标题-1" src="https://github.com/user-attachments/assets/1451bc51-add5-41ea-86e8-e8e8b171d7a7" />
+<img width="799" height="730" alt="01" src="https://github.com/user-attachments/assets/61bc94e4-6051-4fbd-9a94-8c7938072996" />
+<img width="802" height="753" alt="02" src="https://github.com/user-attachments/assets/0713fe02-d3de-48aa-a12b-83234b855045" />
+<img width="784" height="807" alt="03" src="https://github.com/user-attachments/assets/35ed511f-195e-435e-9508-58a686ea3800" />
+<img width="795" height="802" alt="04" src="https://github.com/user-attachments/assets/4026bf5b-f0d4-4405-8f30-cb633113688a" />
+<img width="643" height="757" alt="05" src="https://github.com/user-attachments/assets/e07ae484-2112-4cb0-bcc2-b468dc1091ae" />
+<img width="794" height="646" alt="06" src="https://github.com/user-attachments/assets/cb6e668d-5de1-4dc3-80e5-90a70e095f3a" />
+<img width="526" height="929" alt="07" src="https://github.com/user-attachments/assets/f19256b1-04b1-4817-8465-aa7061f2c669" />
